@@ -3,4 +3,4 @@
 如果你有什么想分享的也可以在fork然后审核没问题即可
 
 # status
-[![isyinxian's GitHub stats](https://github-readme-stats.vercel.app/api?username=isyinxian)](https://githubfast.com/isyinxian/github-readme-stats)
+[![isyinxian's GitHub stats](https://github-readme-stats.vercel.app/api?username=isyinxian)](https://githubfast.com/isyinxian/github-readme-stats&show_icons=true&show_icons=true&theme=radical)
